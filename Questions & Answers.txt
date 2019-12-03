@@ -1,0 +1,75 @@
+1. An expression involving byte, int, and literal numbers is promoted to which of these?
+
+a. long
+b. int (ans)
+c. byte
+d. float
+
+2. Which of the below data type doesn't support overloaded methods for +,-,* and /?
+
+a. double
+b. int
+c. float
+d. BigDecimal (ans)
+
+3. Which of these is an incorrect array declaration?
+
+a. int arr[] = new int[5]
+b. int arr[] = int [5] new (ans)
+c. int arr[] = new int[5]
+d. int [] arr = new int[5]
+
+4. What does LocalTime represent?
+
+a. Date without time
+b. Date and Time
+c. Time without Date (ans)
+d. Date and Time with timezone
+
+5. Where is an array stored in memory?
+
+a. heap space (ans) 
+b. stack space
+c. first generation memory
+d. heap space and stack space
+
+6. Literal can be of which of these data types?
+
+a. float
+b. all of the mentioned (ans)
+c. boolean
+d. integer
+
+7. What is the range of byte data type in Java?
+
+a. -32768 to 32767
+b. None of the mentioned
+c. -128 to 127 (ans)
+d. -2147483648 to 2147483647
+
+8. Which of the following can be operands of arithmetic operators?
+
+a. Both Numeric & Characters (ans)
+b. Characters
+c. Boolean
+d. Numeric
+
+9. Which method returns the elements of Enum class?
+
+a. getEnum()
+b. getEnums()
+c. getEnumList()
+d. getEnumConstants() (ans)
+
+10. Which of these jump statements can skip processing the remainder of the code in its body for a particular iteration?
+
+a. continue (ans)
+b. break
+c. return
+d. exit
+
+SELECT * FROM `student_info` WHERE `FirstName` = "Jaspergen" AND`LastName`="dahilan" AND `Course`="BSIT" AND`Year & Section`="2A"
+
+
+SELECT * FROM tbl_questions INNER JOIN tbl_choices ON tbl_questions.Id = tbl_choices.QuestionID
+
